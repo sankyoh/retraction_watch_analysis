@@ -4,6 +4,7 @@
 
 #  JEA & JEAWPR 2026（2026年1月29日）での発表
 Title: Did the Launch of ChatGPT Affect Retraction Trends? Evidence from an Interrupted Time Series Study
+poster -> 260129Poster_sankyoh.pdf
 
 ## 要旨（日本語版）
 はじめに：ChatGPTなどの生成AIの最近の普及は、研究の誠実性に関する懸念を引き起こしている。AI生成コンテンツが科学文献を損なう可能性については議論されているが、撤回件数への定量的影響は依然不明確である。本研究は、他の重要な事象を考慮に入れつつ、この影響を評価することを目的とする。
